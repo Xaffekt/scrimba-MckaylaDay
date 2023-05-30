@@ -42,7 +42,7 @@ h1, h2, h3, h4, p{
     margin: 0 auto 20px auto;
 }
 .gift-img{
-    background-image: url("images/grass.jpg");
+    background-image: url("grass.jpg");
     background-size: cover;
     background-position: center;
 
@@ -55,11 +55,11 @@ h1, h2, h3, h4, p{
 }
 
 #gift-img-fun:hover{
-    background-image: url("images/dog-riding-turtle.gif");
+    background-image: url("dog-riding-turtle.gif");
 }
 
 #gift-img-hungry:hover{
-    background-image: url("images/hungry.gif");
+    background-image: url("hungry.gif");
 }
 
 #gift-img-apple{  /*ID overrides class parameters*/
@@ -67,7 +67,7 @@ h1, h2, h3, h4, p{
 }
 
 #gift-img-apple:hover{
-    background-image: url("images/apple.gif");
+    background-image: url("apple.gif");
 }
 
 a{
